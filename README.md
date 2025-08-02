@@ -1,0 +1,2 @@
+# homebrew-void
+"Welcome to the homebrew 'void'—a Homebrew tap, void of wasted space, and full of things you never knew you needed-existing in the void."
